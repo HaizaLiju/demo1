@@ -1,0 +1,14 @@
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\bin\Debug\net8.0\DemoApp1.exe
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\bin\Debug\net8.0\DemoApp1.deps.json
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\bin\Debug\net8.0\DemoApp1.runtimeconfig.json
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\bin\Debug\net8.0\DemoApp1.dll
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\bin\Debug\net8.0\DemoApp1.pdb
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\DemoApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\DemoApp1.AssemblyInfoInputs.cache
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\DemoApp1.AssemblyInfo.cs
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\DemoApp1.csproj.CoreCompileInputs.cache
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\DemoApp1.dll
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\refint\DemoApp1.dll
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\DemoApp1.pdb
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\DemoApp1.genruntimeconfig.cache
+C:\Users\jisik\OneDrive\Desktop\New folder\DemoApp1\DemoApp1\obj\Debug\net8.0\ref\DemoApp1.dll
